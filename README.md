@@ -14,6 +14,11 @@ The stocks are categorized into 10 Global Industry Classification Standard (gics
 + Materials
 + Utilities. 
 
-So selecting a sensible portfolio of this stocks and choosing two different association measures (Pearson and Kendall), we implement the Bootstrap procedure to build up our marginal correlation graphs.
+So selecting a sensible portfolio of this stocks and choosing two different association measures:
+
+* Pearson 
+* Kendall
+
+we implement the Bootstrap procedure to build up our marginal correlation graphs.
 
 The results demonstrate that stocks from the same gics sectors tend to be clustered together.
