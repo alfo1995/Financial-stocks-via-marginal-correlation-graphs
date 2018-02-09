@@ -23,4 +23,7 @@ we implement the Bootstrap procedure to build up our marginal correlation graphs
 
 The results demonstrate that stocks from the same gics sectors tend to be clustered together.
 
-![drawing](/Users/alfonsodamelio/Desktop/financial.png =100x20)
+\begin{figure}
+ \includegraphics[width=300pt, height = 125 pt]{/Users/alfonsodamelio/Desktop/financial.png}
+\end{figure}
+
